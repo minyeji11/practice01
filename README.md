@@ -1,1 +1,1 @@
-# animation-practice
+# inflearn-practice
